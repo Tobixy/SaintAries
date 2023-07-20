@@ -126,7 +126,7 @@
       "STRING_SESSION": {
          "description": "run repl run And get your String Session",
          "value": "",
-         "required": true
+         "required": false,
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
